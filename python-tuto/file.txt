@@ -1,0 +1,8 @@
+https://en.wikipedia.org/wiki/High-performance_computing
+
+High-performance computing (HPC) uses supercomputers and computer clusters to solve advanced computation problems.
+
+Overview
+HPC integrates systems administration (including network and security knowledge) and parallel programming into a multidisciplinary field that combines digital electronics, computer architecture, system software, programming languages, algorithms and computational techniques.[1] HPC technologies are the tools and systems used to implement and create high performance computing systems.[2] Recently[when?], HPC systems have shifted from supercomputing to computing clusters and grids.[1] Because of the need of networking in clusters and grids, High Performance Computing Technologies are being promoted[by whom?] by the use of a collapsed network backbone, because the collapsed backbone architecture is simple to troubleshoot and upgrades can be applied to a single router as opposed to multiple ones.
+
+...
