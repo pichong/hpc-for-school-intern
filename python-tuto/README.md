@@ -8,3 +8,4 @@ Topics
 - How to display messages on the screen with print() function ?
 - How to get command line arguments with sys.argv variable ?
 - How to open and read a file ?
+- How to handle characters ?
