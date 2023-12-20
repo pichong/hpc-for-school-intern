@@ -20,8 +20,8 @@ print(s)
 f.seek(11)
 for i in range(4):
     s = f.read(1)
-    print(s)
-
+    print(s, end='')
+print()
 
 # get number of characters of the file
 # reset file position to the end and get file position value
